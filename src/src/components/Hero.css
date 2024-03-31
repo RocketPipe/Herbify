@@ -1,0 +1,10 @@
+/* Hero.css */
+.hero-section {
+    background-color: #f8f9fa; /* Example - light background color */
+    padding: 40px 0; /* Add some padding */
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;  /* Adjust heading size as needed */
+  } 
+  
